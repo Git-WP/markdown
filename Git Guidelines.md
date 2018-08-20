@@ -106,5 +106,5 @@ git pull	//更新
 
 #### 参考资料
 
-<https://blog.csdn.net/qq_35794202/article/details/80626074>	"Git提交代码流程"
+[git提交代码流程]<https://blog.csdn.net/qq_35794202/article/details/80626074>
 
