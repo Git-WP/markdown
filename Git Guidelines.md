@@ -2,7 +2,7 @@
 
 ---
 
-[TOC]
+*Edited by ~April at 2018/08/20*
 
 #### 项目管理
 
@@ -100,9 +100,11 @@ git pull	//更新
 
 ```
 
+#### 其它
+见README.MD
 
 
 #### 参考资料
 
-[1]: https://blog.csdn.net/qq_35794202/article/details/80626074	"Git提交代码流程"
+<https://blog.csdn.net/qq_35794202/article/details/80626074>	"Git提交代码流程"
 
